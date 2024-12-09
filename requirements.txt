@@ -1,0 +1,6 @@
+selenium
+behave
+pytest
+allure-pytest
+configparser
+allure-behave
